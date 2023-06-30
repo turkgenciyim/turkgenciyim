@@ -22,7 +22,5 @@
 <img src="https://skillicons.dev/icons?i=vercel,ps,devto,github,linkedin,vscode,discord&theme=dark" />
 <br/>
 
-<div width="50%"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=turkgenciyim&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=turkgenciyim&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
-<img width="80%" src="https://activity-graph.herokuapp.com/graph?username=turkgenciyim&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></div>
-<
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=turkgenciyim&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
