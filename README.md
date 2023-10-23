@@ -12,13 +12,13 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=turkgenciyim"/>
 </a>
-<h3>I'm FullStack Developer NextJS,  MongoDB, TailwindCSS ..other classic web languages. I am 18 years old and currently working in web development and social media management for a company </h3>
 <br/>
+<h3>I'm FullStack Developer NextJS for SSR,  AstroJS for SSG, TailwindCSS for UI ..other classic web languages. I am 18 years old and currently working in web development and social media management for a company </h3>
 <h3>Frameworks and Languages</h3>
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwindcss,express,nodejs,javascript,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,astro,react,tailwindcss,express,nodejs,javascript,html,css&theme=dark" />
 <br/>
 <h3>Database and Storage Technologies</h3>
-<img src="https://skillicons.dev/icons?i=aws,mongodb,supabase,planetscale,prisma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=sqlite,aws,mongodb,mysql,supabase,planetscale,prisma&theme=dark" />
 <br/>
 <h3>Others</h3>
 <img src="https://skillicons.dev/icons?i=vercel,ps,devto,github,linkedin,vscode,discord&theme=dark" />
