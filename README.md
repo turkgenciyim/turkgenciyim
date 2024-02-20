@@ -3,7 +3,7 @@
   
 ![Discord Presence](https://lanyard.cnrad.dev/api/619925060387340299)
 
-<a href="https://app.daily.dev/miracim"><img src="https://api.daily.dev/devcards/v2/ffZ5mae9yjamK57wZBoUh.png?r=at5" width="356" alt="Miraç's Dev Card"/></a>
+<a href="https://app.daily.dev/miracim"><img src="https://api.daily.dev/devcards/v2/ffZ5mae9yjamK57wZBoUh.png?r=at5&type=wide" width="652" alt="Miraç's Dev Card"/></a>
 
 <a href="https://discord.com/users/619925060387340299">
 <img alt="askme" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" />
