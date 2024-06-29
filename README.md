@@ -9,7 +9,7 @@
 
 <br/>
 
-<a href="https://app.daily.dev/miracim"><img src="https://api.daily.dev/devcards/v2/ffZ5mae9yjamK57wZBoUh.png?type=wide&r=qqk" width="652" alt="Miraç's Dev Card"/></a>
+<a href="https://app.daily.dev/miracim"><img src="https://api.daily.dev/devcards/v2/ffZ5mae9yjamK57wZBoUh.png?type=wide&r=rl8" width="652" alt="Miraç's Dev Card"/></a>
 
 <a href="https://discord.com/users/619925060387340299">
 <img alt="askme" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" />
